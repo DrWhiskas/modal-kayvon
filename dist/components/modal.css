@@ -25,3 +25,18 @@
     font-size: 25px;
     font-weight: bold;
 }
+.button{
+    width: 130px;
+    height: 40px;
+    background-color: #006400;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    transition: all ease-in-out .2s;
+    
+}
+.button:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transform: scale(1.05);
+}

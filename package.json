@@ -1,9 +1,9 @@
 {
 	"name": "modal-kayvon",
-	"version": "0.1.2",
+	"version": "0.1.4",
 	"private": false,
 	"author": "Kayvon",
-  "keywords": ["react", "components", "ui", "modal"],
+  "keywords": ["react", "components", "ui", "modal", "dialog"],
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [ "dist", "README.md" ],
